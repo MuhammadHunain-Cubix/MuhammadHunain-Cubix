@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadHunain-Cubix.
-- I am working as a Lead Game Developer.
-- 🌱 I’m currently learning NFT base projects.
+- I am working as a Senior Software Engineer (Game Developement).
+- 🌱 I’m currently working on NFT base games.
 - 💞️ I’m looking to collaborate on Game Development Team.
 - 📫 How to reach me ...
 
